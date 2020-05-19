@@ -4,3 +4,10 @@ C:\Users\mjelinek\source\repos\BackupClient\bin\Debug\BackupClient.exe
 C:\Users\mjelinek\source\repos\BackupClient\bin\Debug\BackupClient.pdb
 C:\Users\mjelinek\source\repos\BackupClient\obj\Debug\BackupClient.exe
 C:\Users\mjelinek\source\repos\BackupClient\obj\Debug\BackupClient.pdb
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\bin\Debug\BackupClient.exe.config
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\bin\Debug\BackupClient.exe
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\bin\Debug\BackupClient.pdb
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\obj\Debug\BackupClient.csprojAssemblyReference.cache
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\obj\Debug\BackupClient.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\obj\Debug\BackupClient.exe
+C:\Users\Matej\Desktop\Pbackup\Demon\BackupClient\obj\Debug\BackupClient.pdb

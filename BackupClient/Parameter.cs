@@ -9,5 +9,7 @@ namespace BackupClient
     public class Parameter
     {
         public string ComputerName { get; set; }
+
+        //public int ComputerID { get; set; }
     }
 }
